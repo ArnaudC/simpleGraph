@@ -167,7 +167,7 @@ public class GUI extends javax.swing.JFrame {
 
         jLabel3.setText("Made by Arnaud Couchet");
 
-        jLabel4.setText("v2.0");
+        jLabel4.setText("v1.5");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
